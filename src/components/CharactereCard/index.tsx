@@ -7,15 +7,15 @@ import {
 
 interface Props extends TouchableOpacityProps {
     id: string; 
-    character: string;
+    name: string;
 }
 
-export function CharactereCard({character, ...rest}: Props){
+export function CharactereCard({name, ...rest}: Props){
     return(
         <Container
             {...rest}
         >
-            <Text>{character}</Text>
+            <Text>{name}</Text>
         </Container>
     )
 }   
