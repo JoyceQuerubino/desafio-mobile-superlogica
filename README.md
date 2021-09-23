@@ -74,7 +74,7 @@ Para usar a aplicação
 - Ou copie e cole o link abaixo: exp://exp.host/@joycequerubino/base-desafio-superlogica
 
 ```
-![image](https://user-images.githubusercontent.com/66806696/134555976-8dcdaa2f-aec7-4551-986d-d6264fe03345.png)
+![QRCode](https://user-images.githubusercontent.com/66806696/134577424-a911f907-6611-4092-8f21-e0286d11bc83.png)
 
 ---
 
