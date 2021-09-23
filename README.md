@@ -39,7 +39,7 @@ O app deve apresentar todos os personagens da série e permitir um filtro por no
 ## 📱 Preview da aplicação
 
 <h1 align="center">
-   <img src="/github/video-apt.gif" alt="Preview app"/>
+  <img src ="https://ik.imagekit.io/joyceQuerubino/preview_qVPpPI2og5J.gif?updatedAt=1632429051112">
 </h1>
 
 ## 🛠 Tecnologias utilizadas
