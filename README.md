@@ -38,9 +38,9 @@ O app deve apresentar todos os personagens da série e permitir um filtro por no
 
 ## 📱 Preview da aplicação
 
-<h1 align="center">
-  <img src ="https://ik.imagekit.io/joyceQuerubino/preview_qVPpPI2og5J.gif?updatedAt=1632429051112">
-</h1>
+![preview-min](https://user-images.githubusercontent.com/66806696/134580771-a267d51b-50ad-43ad-9402-d30a3aaca4dc.gif)
+
+
 
 ## 🛠 Tecnologias utilizadas
 
